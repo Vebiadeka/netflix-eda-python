@@ -1,15 +1,16 @@
-# 🎬 Netflix Movies & TV Shows - Exploratory Data Analysis
+# Netflix Movies & TV Shows - Exploratory Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset using Python. The analysis focuses on understanding Netflix's content library, identifying trends, and generating insights through data visualization.
 
-## 📂 Dataset
+## Dataset
 
 - **Dataset:** Netflix Movies and TV Shows
 - **Source:** Kaggle
+- **Link:** *(https://www.kaggle.com/datasets/shivamb/netflix-shows)*
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas
@@ -17,7 +18,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Matplotlib
 - Google Colab
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 - Data Cleaning
 - Missing Value Handling
@@ -28,14 +29,14 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Release Year Trends
 - Genre Analysis
 
-## 📈 Key Insights
+## Key Insights
 
 - Movies dominate Netflix's content library.
 - The United States contributes the highest number of titles.
 - TV-MA is the most common content rating.
 - Netflix experienced significant content growth after 2015.
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Python
 - Pandas
