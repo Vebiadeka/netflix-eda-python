@@ -45,3 +45,28 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Business Insight Generation
+
+
+## Sample Visualizations
+
+### Distribution of Netflix Content
+
+![Distribution](images/Distribution_of_Netflix_Content.png)
+
+---
+
+### Content Ratings
+
+![Content Ratings](images/Content_Ratings.png)
+
+---
+
+### Content Added by Year
+
+![Content Added by Year](images/Content_Added_by_Year.png)
+
+---
+
+### Top Genres
+
+![Top Genres](images/Top_Genres.png)
